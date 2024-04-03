@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "BjJFBS3IQ+QOYG050Sm3jM6Trd6Cc8PDi7qJO1Vn8KTwhnx4wTp2fmrprP+VJq/wuklWivjNqUVy2rwKI5tDpA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jvdua\\OneDrive\\Documentos\\PrimeirosPassosC#Alura\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jvdua\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\jvdua\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\jvdua\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\jvdua\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\jvdua\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\jvdua\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'Microsoft.NETCore.App' 2.0.0 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-7mfr-774f-w5r9",
+      "libraryId": "Microsoft.NETCore.App",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.0"
+      ]
+    }
+  ]
+}
